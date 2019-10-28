@@ -16,7 +16,7 @@ ICSLabs Of  Ocean University Of China
 
 #### 一些杂项(内容分享) `参考自NJU-Project-N`
 
-1. ##### [为什么要学习计算机系统基础](https://nju-projectn.github.io/ics-pa-gitbook/ics2019/why.html?_blank)
+1. ##### [为什么要学习计算机系统基础](https://nju-projectn.github.io/ics-pa-gitbook/ics2019/why.html"target="_blank")
 
 2. ##### [Linux入门教程](https://nju-projectn.github.io/ics-pa-gitbook/ics2019/linux.html?_blank)
 
