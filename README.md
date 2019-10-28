@@ -16,15 +16,15 @@ ICSLabs Of  Ocean University Of China
 
 #### 一些杂项(内容分享) `参考自NJU-Project-N`
 
-1. ##### [为什么要学习计算机系统基础](https://nju-projectn.github.io/ics-pa-gitbook/ics2019/why.html)
+1. ##### [为什么要学习计算机系统基础](https://nju-projectn.github.io/ics-pa-gitbook/ics2019/why.html?_blank)
 
-2. ##### [Linux入门教程](https://nju-projectn.github.io/ics-pa-gitbook/ics2019/linux.html)
+2. ##### [Linux入门教程](https://nju-projectn.github.io/ics-pa-gitbook/ics2019/linux.html?_blank)
 
-3. ##### [man入门教程](https://nju-projectn.github.io/ics-pa-gitbook/ics2019/man.html)
+3. ##### [man入门教程](https://nju-projectn.github.io/ics-pa-gitbook/ics2019/man.html?_blank)
 
-4. ##### [git入门教程](https://nju-projectn.github.io/ics-pa-gitbook/ics2019/git.html)
+4. ##### [git入门教程](https://nju-projectn.github.io/ics-pa-gitbook/ics2019/git.html?_blank)
 
-5. ##### [i386阅读指南](https://nju-projectn.github.io/ics-pa-gitbook/ics2019/i386-intro.html)
+5. ##### [i386阅读指南](https://nju-projectn.github.io/ics-pa-gitbook/ics2019/i386-intro.html?_blank)
 
 
 此项目本人第一次维护, 有问题`欢迎指出`!
