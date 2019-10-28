@@ -7,7 +7,7 @@
 #### 给出汇编实验一与汇编实验二模板其余实验请参考这两个实验自行编写
 
 
-- #### Linux下实验指导[点击这里](https://www.cnblogs.com/Cherrison-Time/p/11755932.html)
+- #### Linux下实验指导[点击这里](https://www.cnblogs.com/Cherrison-Time/p/11756239.html)
 
 - #### windows实验指导文档doc格式包含在下面的文件中
 
