@@ -15,7 +15,7 @@
 
 ### 提交作业
 
-- #### [点击这里](https://www.ketangpai.com/Homework/handup/homeworkid/MDAwMDAwMDAwMLScvZaGudGx.html)提交作业
+- #### 孙鑫老师班请[点击这里](https://www.ketangpai.com/Homework/handup/homeworkid/MDAwMDAwMDAwMLScvZaGudGx.html)提交作业
 
 **11.12号24点之前** 提交汇编实验报告1-5，实验报告命名方式：
 
