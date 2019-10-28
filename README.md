@@ -18,11 +18,11 @@ ICSLabs Of  Ocean University Of China
 
 2.  使用git(**推荐**)
 
-1) 安装git 使用git clone 将项目clone到本地, 并使用git管理此项目. 
+> 1) 安装git 使用git clone 将项目clone到本地, 并使用git管理此项目. 
 
-2) 只需输入git pull便可与项目保持同步更新, 而不必每次下载项目(或其中几个文件)
+> 2) 只需输入git pull便可与项目保持同步更新, 而不必每次下载项目(或其中几个文件)
 
-3) 下方有个git的简单使用说明, 详细的使用教程可以[点击这里](https://www.liaoxuefeng.com/wiki/896043488029600)
+> 3) 下方有个git的简单使用说明, 详细的使用教程可以[点击这里](https://www.liaoxuefeng.com/wiki/896043488029600)
 
 
 #### 提交方式参考各实验目录内容说明
