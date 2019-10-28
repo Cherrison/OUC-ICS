@@ -11,7 +11,7 @@
 
 - #### windows实验指导文档doc格式包含在下面的文件中
 
-- #### 实验环境文件[点击这里](https://package.ketangpai.com/Package/downloadCoursewareView/id/MDAwMDAwMDAwMLR2pZiH37dqhKVyoQ/uid/MDAwMDAwMDAwMLR2tZeGz6-vhKVyoQ/courseid/MDAwMDAwMDAwMLR2tZiHqbex.html)打包下载
+- #### 实验环境文件[点击这里](https://package.ketangpai.com/Package/downloadCoursewareView/id/MDAwMDAwMDAwMLR2pZiH37dqhKVyoQ/uid/MDAwMDAwMDAwMLR2tZeGz6-vhKVyoQ/courseid/MDAwMDAwMDAwMLR2tZiHqbex.html)打包下载(无论使用Linux还是Windows完成实验`都要下载`, 里面有一些帮助doc文档)
 
 ### 提交作业
 
