@@ -6,6 +6,7 @@
 
 #### 给出汇编实验一与汇编实验二模板其余实验请参考这两个实验自行编写
 
+- #### Linux下如何调试nasm汇编程序[点击这里](https://github.com/Cherrison/OUC-ICS/issues/2) 
 
 - #### Linux下实验指导[点击这里](https://www.cnblogs.com/Cherrison-Time/p/11756239.html)
 
